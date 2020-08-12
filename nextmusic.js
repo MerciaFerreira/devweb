@@ -1,1 +1,1 @@
-console.log ("qualquer coisa da musga")
+console.log ("passar musga")
