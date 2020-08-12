@@ -1,1 +1,1 @@
-console.log("proxima musica")
+console.log("next music")
